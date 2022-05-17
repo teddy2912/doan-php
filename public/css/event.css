@@ -1,0 +1,174 @@
+/**********************************/
+/************* HEADER ***************/
+/**********************************/
+.search2{
+    position: relative;
+    right: 25px;
+    height: 50px;
+}
+.clear{
+    clear: both;
+}
+.top-header{
+    height: 40px;
+}
+
+.search1{
+    width: 100%;
+    height: 50px;
+}
+.search3{
+    height: 120px;
+    width: 58px;
+
+    
+}
+.brand_logo{
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0;
+}
+.brand_sublogo{
+    text-align: center;
+    text-transform: uppercase;
+    color: #deaa86;
+    font-size: 14px;
+    letter-spacing: 10px;
+    margin-top: -5px;
+}
+.menu{
+    font-size: 17px;
+    
+}
+/* .navbar{
+    padding-top: 0 !important;
+} */
+.sdt{
+    padding-top: 48px;
+    
+}
+.icon-2{
+    padding-top: 48px;
+}
+/**********************************/
+/************ event *************/
+/**********************************/
+.tieude h1{
+    font-size: 55px !important;
+}
+.tieude p{
+    font-size: 15px;
+    color: rgb(109, 108, 108);
+}
+.top_event p{
+    font-size: 15px;
+    color: rgb(109, 108, 108);
+}
+.event_box figcaption{
+    width: 100%;
+    height: 120px;
+    float: left;
+    padding: 20px;
+    padding-top: 40px;
+    margin-top: -120px;
+    position: relative;
+    z-index: 2;
+    
+}
+.event_box img{
+    width: 100% !important;
+    float: left;
+    opacity: 0.7;
+    transform: scale(1.05);
+    height: 397.1px;
+    
+}
+.event_box:hover img{
+    opacity: 1; transform: scale(1);
+}
+.event_box{
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+    box-shadow: 10px 10px 30px rgb(0 0 0 / 5%);
+    background: #1c1b21;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************/
+/************* FOOTER ************/
+/**********************************/
+.footer a{
+    text-decoration: none;
+    
+    
+}
+
+.brand_logo_f{
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0;
+    color: white;
+}
+/* .bg_f{
+    background-image: url(img/istockphoto-485371441-612x612.jpg) ;
+    
+    font-weight:inherit;
+    
+    
+} */
+/* .footer img{
+    width: 100%;
+    height: 450px;
+    opacity: 0.3;
+} */
+.f-social {
+    font-size: 0;
+    overflow: hidden;
+}
+.f-social a {
+    display: inline-block;
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    padding: 3px 0;
+    text-align: center;
+    font-size: 14px;
+    background: #fdfdfd;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    margin-top: 4px;
+}
+.f-social a:hover {
+    background: #d32020;
+    border: 1px solid #ffffff;
+}
+.f-social a i {
+    margin-top: 3px;
+    color: #050505;
+}
+.f-social a:hover i {
+    color: #fdfcfc;
+}
+.contact_f a{
+    color: white;
+}
+.contact_f a :hover{
+    background: red;
+}
+
+   
+

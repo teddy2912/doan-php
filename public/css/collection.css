@@ -1,0 +1,216 @@
+/**********************************/
+/************* HEADER ***************/
+/**********************************/
+.search2{
+    position: relative;
+    right: 25px;
+    height: 50px;
+}
+.clear{
+    clear: both;
+}
+.top-header{
+    height: 40px;
+}
+
+.search1{
+    width: 100%;
+    height: 50px;
+}
+.search3{
+    height: 120px;
+    width: 58px;
+
+    
+}
+.brand_logo{
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0;
+}
+.brand_sublogo{
+    text-align: center;
+    text-transform: uppercase;
+    color: #deaa86;
+    font-size: 14px;
+    letter-spacing: 10px;
+    margin-top: -5px;
+}
+.menu{
+    font-size: 17px;
+    
+}
+/* .navbar{
+    padding-top: 0 !important;
+} */
+.sdt{
+    padding-top: 48px;
+    
+}
+.icon-2{
+    padding-top: 48px;
+}
+/**********************************/
+/************ collection *************/
+/**********************************/
+.img-album{
+    cursor: pointer;
+    
+    display: flex;
+    flex-wrap: wrap;
+    /* position: absolute;  */
+}
+.img-album-2{
+    width: 358.56px;
+    height: auto;
+transition: all ease-in-out ;
+position: relative;
+}
+.img-album-1{
+    width: 358.56px;
+    
+    position: relative;
+
+    overflow: hidden;
+}
+.txt-album{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.52);
+    position: absolute;
+    bottom:50px;
+    text-align: center;
+    color: white;
+    padding:10px;
+    box-sizing: border-box;
+    opacity: 0;
+}
+.img-album:hover .txt-album{
+    opacity: 1;
+    transform: translateY(50px);
+    transition:ease-in-out 0.5s;
+}
+.img-album:hover img{
+    transform: scale(1.5);
+transition: all ease-in-out 0.5s;
+}
+.hover1{   
+    cursor: pointer;
+    
+    display: flex;
+    flex-wrap: wrap;
+    /* position: absolute;     */
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    clear: both;
+}
+.img1 {
+    width: 100%;
+    height: auto;
+    transition: all ease-in-out ;
+    }
+    .img {
+    /* width: 100%; */
+    height: 228px;
+    position: relative;
+    
+    overflow: hidden;
+    }
+    .txt {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.52);
+    position: absolute;
+    bottom:50px;
+    text-align: center;
+    color: white;
+    padding:10px;
+    box-sizing: border-box;
+    opacity: 0;
+    }
+    .img:hover div.txt {
+    opacity: 1;
+    transform: translateY(50px);
+    transition:ease-in-out 0.5s;
+    }
+    .img:hover img {
+    transform: scale(1.5);
+    transition: all ease-in-out 0.5s;
+    }
+
+
+
+
+
+
+
+
+/**********************************/
+/************* FOOTER ************/
+/**********************************/
+.footer a{
+    text-decoration: none;
+    
+    
+}
+
+.brand_logo_f{
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0;
+    color: white;
+}
+/* .bg_f{
+    background-image: url(img/istockphoto-485371441-612x612.jpg) ;
+    
+    font-weight:inherit;
+    
+    
+} */
+/* .footer img{
+    width: 100%;
+    height: 450px;
+    opacity: 0.3;
+} */
+.f-social {
+    font-size: 0;
+    overflow: hidden;
+}
+.f-social a {
+    display: inline-block;
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    padding: 3px 0;
+    text-align: center;
+    font-size: 14px;
+    background: #fdfdfd;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    margin-top: 4px;
+}
+.f-social a:hover {
+    background: #d32020;
+    border: 1px solid #ffffff;
+}
+.f-social a i {
+    margin-top: 3px;
+    color: #050505;
+}
+.f-social a:hover i {
+    color: #fdfcfc;
+}
+.contact_f a{
+    color: white;
+}
+.contact_f a :hover{
+    background: red;
+}
+
+   
+

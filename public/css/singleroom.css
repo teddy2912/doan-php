@@ -1,0 +1,293 @@
+/**********************************/
+/************* HEADER ***************/
+/**********************************/
+.search2{
+    position: relative;
+    right: 25px;
+    height: 50px;
+}
+.clear{
+    clear: both;
+}
+.top-header{
+    height: 40px;
+}
+
+.search1{
+    width: 100%;
+    height: 50px;
+}
+.search3{
+    height: 120px;
+    width: 58px;
+
+    
+}
+.brand_logo{
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0;
+}
+.brand_sublogo{
+    text-align: center;
+    text-transform: uppercase;
+    color: #deaa86;
+    font-size: 14px;
+    letter-spacing: 10px;
+    margin-top: -5px;
+}
+.menu{
+    font-size: 17px;
+    
+}
+/* .navbar{
+    padding-top: 0 !important;
+} */
+.sdt{
+    padding-top: 48px;
+    
+}
+.icon-2{
+    padding-top: 48px;
+}
+/**********************************/
+/************ single room *************/
+/**********************************/
+.room_detail{
+    background-color: #f9fbfc;
+}
+/* .text_room{
+    background-color: #f9fbfc;
+} */
+.text_single{
+    font-size: 60px;
+}
+.room_detail_1{
+    background-color: white;
+}
+
+
+.room_detail_1 img{
+    width: 90%;
+    margin: 20px 60px 20px 30px !important;
+    height: 400px;
+
+    
+
+    
+}
+.room_detail_2{
+    margin: 15px 30px 30px 30px !important;
+}
+/* .room_gia{
+    text-align:center;
+    
+
+} */
+.mota_room h3{
+    color: #deaa86;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-bottom: 20px
+}
+.mota_room p{
+    line-height: 1.8em;
+    margin-bottom: 20px;
+}
+.mota_room{
+    padding: 25px;
+}
+.btn_room{
+    padding: 15px 30px !important;
+    font-size: 13px !important;
+    letter-spacing: 0.5px !important;
+    border-color: #d14d36 !important;
+    background-color: transparent !important;
+    
+    transition: all 0.3s ease-out !important;
+    border-radius: 0 !important;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: normal !important;
+    
+    
+}
+
+
+/******** single room _ right **********/
+
+.room_item{
+    display: flex;
+    padding-left: 20px;
+}
+
+.room_features{
+    background-color: white;
+    width: 350px;
+    padding: 25px 0 0 0 ;
+    margin: 0px -25px -25px 0px;
+}
+.room_right_1{
+    margin-left: 20px;
+}
+
+.text_de{
+    color: #d14d36;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding-left: 30px;
+}
+.room_item{
+    padding: 15px 0;
+    overflow: hidden;
+    font-size: 13px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+}
+.room_title{
+    padding-left: 30px;
+}
+.item_nho{
+    color: #d14d36;
+    font-size: 20px;
+}
+
+/********** ROOM THEM ********/
+.room_them{
+    width: 350px;
+    background-color: white;
+}
+.img_si_1 img{
+    width: 100%;
+}
+.img_si_1{
+    margin: 20px;
+    
+}
+.room_review{
+    padding: 50px;
+    background-color: white;
+}
+.room_review h3{
+    color: #deaa86;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-bottom: 20px
+}
+.review_1{
+    font-size: 12px;
+}
+/************** giá tiền ************/
+.room_gia span{
+    font-size: 25px;
+    font-weight: bold;
+    color: #d14d36;
+}
+.room_gia {
+    color: #d14d36;
+    
+}
+.offcanvas-body{
+    text-align: start !important;
+    
+}
+
+
+/* top-footer */
+.top-footer{
+    background-image: url(img/room_5.jpg);
+}
+.send{
+
+    margin-left: -25px;
+
+    
+}
+.text_send{
+    background-color: rgba(212, 206, 206, 0.31) !important;
+    color: white !important;
+    height: 48px;
+}
+ input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #fff !important;
+    
+    }
+.email_icon{
+    font-size: 25px;
+    padding-top: 55px;
+}
+.img_email{
+    height: 150px;
+}
+.img_email img{
+    padding-top: 45px;
+    padding-left: 80px;
+}
+.lienhe{
+    padding-top: 55px;
+}
+.img_si_1 a{
+    text-decoration: none;
+}
+
+
+
+/**********************************/
+/************* FOOTER ************/
+/**********************************/
+.footer a{
+    text-decoration: none;
+    
+    
+}
+
+.brand_logo_f{
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 0;
+    color: white;
+}
+
+.f-social {
+    font-size: 0;
+    overflow: hidden;
+}
+.f-social a {
+    display: inline-block;
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    padding: 3px 0;
+    text-align: center;
+    font-size: 14px;
+    background: #fdfdfd;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    margin-top: 4px;
+}
+.f-social a:hover {
+    background: #d32020;
+    border: 1px solid #ffffff;
+}
+.f-social a i {
+    margin-top: 3px;
+    color: #050505;
+}
+.f-social a:hover i {
+    color: #fdfcfc;
+}
+.contact_f a{
+    color: white;
+}
+.contact_f a :hover{
+    background: red;
+}
+
+   
+
