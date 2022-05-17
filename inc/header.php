@@ -19,7 +19,7 @@
                                 <a class="nav-link active " aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item ">
-                                <a class="nav-link mx-4 active" href="room.html">Room</a>
+                                <a class="nav-link mx-4 active" href="room.php">Room</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active" href="dining.html">Dining</a>
