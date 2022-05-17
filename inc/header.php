@@ -19,13 +19,13 @@
                                 <a class="nav-link active " aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item ">
-                                <a class="nav-link mx-4 active" href="room.php">Room</a>
+                                <a class="nav-link mx-4 active" href="./room.php">Room</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="dining.html">Dining</a>
+                                <a class="nav-link active" href="./dining.php">Dining</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link mx-4 active" href="event.html">Event</a>
+                                <a class="nav-link mx-4 active" href="./event.php">Event</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link  active" href="collection.html">Collection</a>
