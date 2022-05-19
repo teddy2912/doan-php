@@ -15,7 +15,7 @@
 
 <body>
     <!-- header -->
-    <?php include_once './inc/header.php'; ?>
+    <?php include_once './inc/header.php' ;?>
     <!-- END header -->
     <!-- slide -->
     <div class="slide">

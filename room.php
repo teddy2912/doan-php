@@ -70,7 +70,7 @@
                                     </ul>
                                     <!-- .rooms_desc__services -->
                             </div>
-                            <a href="singleroom.html" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
+                            <a href="./single.php" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
                         </div>  
                     </div>             
                </div>
@@ -106,7 +106,7 @@
                                     </ul>
                                     <!-- .rooms_desc__services -->
                             </div>
-                            <a href="singleroom.html" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
+                            <a href="./single.php" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
                         </div>  
                     </div>             
                 </div>
@@ -142,7 +142,7 @@
                                     </ul>
                                     <!-- .rooms_desc__services -->
                             </div>
-                            <a href="singleroom.html" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
+                            <a href="./single.php" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
                         </div>  
                     </div>             
                 </div>
@@ -178,7 +178,7 @@
                                     </ul>
                                     <!-- .rooms_desc__services -->
                             </div>
-                            <a href="singleroom.html" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
+                            <a href="./single.php" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
                         </div>  
                     </div>             
                 </div>
