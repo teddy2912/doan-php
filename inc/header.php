@@ -28,12 +28,12 @@
                                 <a class="nav-link mx-4 active" href="./event.php">Event</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link  active" href="collection.html">Collection</a>
+                                <a class="nav-link  active" href="./collection.php">Collection</a>
                             </li>
 
 
                             <li class="nav-item">
-                                <a class="nav-link active mx-4" href="contact.html">Contact</a>
+                                <a class="nav-link active mx-4" href="./contact.php">Contact</a>
                             </li>
                         </ul>
                     </div>
