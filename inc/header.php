@@ -55,6 +55,8 @@
                         <a href="#"><i class="fab fa-twitter text-dark "></i></a>
                         <a href="#"><i class="fab fa-facebook-f text-dark mx-3"></i></a>
                         <a href="#"><i class="fab fa-instagram text-dark"></i></a>
+                        <a href="register.php">Đăng ký</a>
+                        <a href="login.php">Đăng nhập</a>
 
                     </div>
                     <div class="col-md-2">
