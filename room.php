@@ -10,9 +10,7 @@
     <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
 </head>
-<body>
-    
-       
+<body>    
         <!-- header -->
     <?php 
         include_once './inc/header.php';
@@ -70,7 +68,7 @@
                                     </ul>
                                     <!-- .rooms_desc__services -->
                             </div>
-                            <a href="./single.php" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
+                            <a href="./single.php?id=1" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
                         </div>  
                     </div>             
                </div>
@@ -106,7 +104,7 @@
                                     </ul>
                                     <!-- .rooms_desc__services -->
                             </div>
-                            <a href="./single.php" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
+                            <a href="./single.php?id=2" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
                         </div>  
                     </div>             
                 </div>
@@ -142,7 +140,7 @@
                                     </ul>
                                     <!-- .rooms_desc__services -->
                             </div>
-                            <a href="./single.php" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
+                            <a href="./single.php?id=3" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
                         </div>  
                     </div>             
                 </div>
@@ -178,7 +176,7 @@
                                     </ul>
                                     <!-- .rooms_desc__services -->
                             </div>
-                            <a href="./single.php" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
+                            <a href="./single.php?id=4" class="col-md-6 offset-md-4 btn_view btn btn-rooms btn-outline-danger text-center">See details</a>
                         </div>  
                     </div>             
                 </div>
